@@ -1,3 +1,14 @@
+# Files
+*.csv
+*.yaml
+*.png
+
+# Data
+data
+data_hdd
+data_external
+qp-projects
+
 # History files
 .Rhistory
 .Rapp.history
